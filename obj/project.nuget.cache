@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SbFNns5BdTn+VMfW3J0PfMvmFpn4zCvQn71zl/VJNViJUDjDjwH9CsibGMo+kIaN1X7PHtdo5sU9fYyrfKPkg==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectsC#\\WordProcessingApplication\\WordProcessingApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
